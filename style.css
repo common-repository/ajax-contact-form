@@ -1,0 +1,21 @@
+/* CSS Document */
+
+#ajaxForm label {
+width:120px;
+float:left;
+}
+#ajaxForm input[type=text] {
+width:250px;
+}
+#ajaxForm textarea {
+width:250px;
+height:180px;
+}
+#ajaxForm .submit {
+margin-left:120px;
+margin-top:30px;
+margin-bottom:15px;
+}
+form#ajaxForm input#submit_button {
+margin-top:15px;
+}
